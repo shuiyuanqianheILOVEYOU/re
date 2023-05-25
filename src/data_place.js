@@ -1,6 +1,6 @@
 var PLACE_DATA = {
     town:{
-        name:'银溪镇',
+        name:'千鹤镇',
         resource:{
             tree:{
                 name:'农田',
