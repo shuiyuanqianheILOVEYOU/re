@@ -5,14 +5,14 @@ var MODE = 'RELEASE';
 var STOLE = 0.3;
 var STOLE_CHANCE = 0.05;
 var ROBBER_DAY = 10;
-var MAX_STATE = 100;//所有状态的基础
+var MAX_STATE = 200;//所有状态的基础
 //宏变量
 
 var COOK_TIME_NEED = 0.5;
 var SAVE_URL = '//kubitionadvanture.sinaapp.com/save.php';
 var DELAY_MUL = (MODE == 'DEBUG')?0:400;
 // var DELAY_MUL = 400;
-var MIX_DELAY = 100;
+var MIX_DELAY = 200;
 
 var DUNGEON_DEC = 1;
 
