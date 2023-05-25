@@ -4,7 +4,7 @@ var ITEM_DATA = {
     evilBook:{
         name:'偷窃宝典',
         type:'tool',
-        desc:"记录了如何在银溪镇进行掠夺。",
+        desc:"记录了如何在千鹤镇进行掠夺。",
         canUse:false,
         value:0,
     },
