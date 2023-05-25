@@ -161,7 +161,7 @@ var BUILDING_DATA = {
         building:'makeTable',
     },
     toilet:{
-        name:'卫生间',
+        name:'千鹤卫生间',
         desc:'可以收集粪便，升级后可以洗澡。',
         require:{wood:10,part:5},
         timeNeed:4,
