@@ -385,7 +385,7 @@ var PLACE_DATA = {
         timeNeed:2,
     },
     blackForest:{
-        name:'黑森林',
+        name:'谢子梁的黑森林',
         resource:{
             oldTree:{
                 name:'枯树',
