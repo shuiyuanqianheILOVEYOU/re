@@ -78,7 +78,7 @@ var PLACE_DATA = {
         event:{
             tramp:true
         },
-        name:'静谧森林',
+        name:'一之赖森林',
         resource:{
             tree:{
                 name:'树',
